@@ -86,15 +86,12 @@ I'm a **3rd Year B.Tech (AI & ML) student** with hands-on experience as a **Data
 
 <p align="center">
   <a href="https://github.com/niharikatalabhuttula-source/AI-Document-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niharikatalabhuttula-source&repo=AI-Document-Analyzer&theme=tokyonight&title_color=6C63FF&text_color=c9d1d9&bg_color=161B22&icon_color=6C63FF" />
   </a>
   <a href="https://github.com/niharikatalabhuttula-source/AI-SOP-GENERATOR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niharikatalabhuttula-source&repo=AI-SOP-GENERATOR&theme=tokyonight&title_color=6C63FF&text_color=c9d1d9&bg_color=161B22&icon_color=6C63FF" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/niharikatalabhuttula-source/todo_list_python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niharikatalabhuttula-source&repo=todo_list_python&theme=tokyonight&title_color=6C63FF&text_color=c9d1d9&bg_color=161B22&icon_color=6C63FF" />
   </a>
 </p>
 
