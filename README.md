@@ -84,20 +84,59 @@ I'm a **3rd Year B.Tech (AI & ML) student** with hands-on experience as a **Data
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/niharikatalabhuttula-source/AI-Document-Analyzer">
-  </a>
-  <a href="https://github.com/niharikatalabhuttula-source/AI-SOP-GENERATOR">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/niharikatalabhuttula-source/todo_list_python">
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center"><i>📌 Pin these repositories on your GitHub profile for the best presentation.</i></p>
+### 📄 AI Document Analyzer
+An AI-powered application that analyzes documents and extracts meaningful insights efficiently.
 
-<br/>
+**Tech Stack:** Python • AI • Machine Learning
+
+🔗 **Repository:**  
+https://github.com/niharikatalabhuttula-source/AI-Document-Analyzer
+
+</td>
+
+<td width="50%">
+
+### ✍️ AI SOP Generator
+An AI-based application that helps generate professional Statement of Purpose (SOP) documents.
+
+**Tech Stack:** Python • AI
+
+🔗 **Repository:**  
+https://github.com/niharikatalabhuttula-source/AI-SOP-GENERATOR
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ✅ To-Do List App
+A simple and user-friendly task management application to organize daily activities.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 **Repository:**  
+https://github.com/niharikatalabhuttula-source/todo_list_python
+
+</td>
+
+<td width="50%">
+
+### 💰 Expense Tracker
+A personal expense tracking application to manage income, expenses, and budgeting.
+
+**Tech Stack:** Python
+
+🔗 **Repository:**  
+https://github.com/niharikatalabhuttula-source/expense-tracker-python
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Analytics
 
