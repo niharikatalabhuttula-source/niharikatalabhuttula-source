@@ -120,21 +120,7 @@ I'm a **3rd Year B.Tech (AI & ML) student** with hands-on experience as a **Data
 
 <br/>
 
-## 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niharikatalabhuttula-source&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1" />
-</p>
-
-<br/>
-
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niharikatalabhuttula-source&style=for-the-badge&color=6C63FF&label=Profile+Views" />
-</p>
-
-<br/>
 
 ## 🤝 Connect With Me
 
