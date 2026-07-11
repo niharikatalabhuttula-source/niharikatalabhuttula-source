@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Hi there, I'm Niharika 👋
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
@@ -87,23 +86,20 @@ I'm a **3rd Year B.Tech (AI & ML) student** with hands-on experience as a **Data
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niharikatalabhuttula-source&repo=ai-ml-project&theme=tokyonight&title_color=6C63FF&text_color=c9d1d9&bg_color=161B22&icon_color=6C63FF" />
+  <a href="https://github.com/niharikatalabhuttula-source/AI-Document-Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niharikatalabhuttula-source&repo=AI-Document-Analyzer&theme=tokyonight&title_color=6C63FF&text_color=c9d1d9&bg_color=161B22&icon_color=6C63FF" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niharikatalabhuttula-source&repo=data-analytics-dashboard&theme=tokyonight&title_color=6C63FF&text_color=c9d1d9&bg_color=161B22&icon_color=6C63FF" />
+  <a href="https://github.com/niharikatalabhuttula-source/AI-SOP-GENERATOR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niharikatalabhuttula-source&repo=AI-SOP-GENERATOR&theme=tokyonight&title_color=6C63FF&text_color=c9d1d9&bg_color=161B22&icon_color=6C63FF" />
   </a>
 </p>
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niharikatalabhuttula-source&repo=sql-project&theme=tokyonight&title_color=6C63FF&text_color=c9d1d9&bg_color=161B22&icon_color=6C63FF" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niharikatalabhuttula-source&repo=portfolio-website&theme=tokyonight&title_color=6C63FF&text_color=c9d1d9&bg_color=161B22&icon_color=6C63FF" />
+  <a href="https://github.com/niharikatalabhuttula-source/todo_list_python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niharikatalabhuttula-source&repo=todo_list_python&theme=tokyonight&title_color=6C63FF&text_color=c9d1d9&bg_color=161B22&icon_color=6C63FF" />
   </a>
 </p>
 
-<p align="center"><i>📌 Note: Pin these repositories on your GitHub profile and update the repo names above to match your actual repository names for the cards to render.</i></p>
+<p align="center"><i>📌 Pin these repositories on your GitHub profile for the best presentation.</i></p>
 
 <br/>
 
@@ -119,7 +115,6 @@ I'm a **3rd Year B.Tech (AI & ML) student** with hands-on experience as a **Data
 </p>
 
 <br/>
-
 
 
 ## 🤝 Connect With Me
@@ -142,4 +137,7 @@ I'm a **3rd Year B.Tech (AI & ML) student** with hands-on experience as a **Data
 <h4 align="center">💬 "Learning something new every day and building my way toward a career in Data & AI."</h4>
 
 <p align="center"><i>⭐️ Thanks for visiting my profile — feel free to explore my repositories and connect!</i></p>
+
+  
+
 
